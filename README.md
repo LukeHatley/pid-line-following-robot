@@ -22,10 +22,6 @@ Sensors → PID Controller → Motor Driver → Motors
 ## CAD Design
 The chassis was designed in Fusion 360 to optimize sensor placement and center of gravity.
 
-## Results
-Top speed: ~1.5 m/s  
-Control loop: ~300 Hz
-
 ## Future Improvements
 Add wheel odometry
 Integrate ROS
